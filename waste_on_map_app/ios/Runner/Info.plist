@@ -41,5 +41,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+    <key>EnableBackgroundLocationUpdates</key>
+	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo Library Access Warning</string>
+	<key>NSCameraUsageDescription</key>
+	<string>These are need to take a picture or choose picture from library</string>
 </dict>
 </plist>
